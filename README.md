@@ -66,7 +66,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For any questions or suggestions, please contact me at diago.menndonca.10@gmail.com.
 
-## Acknowledgements
-- Thanks to all the contributors who have helped make this project better.
-- Special thanks to freeCodeCamp and Archbee for their guides on writing good README files.
-
