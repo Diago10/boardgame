@@ -20,10 +20,6 @@ To get started with the board game project, follow these steps:
     ```bash
     cd board-game
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 To run the project locally:
