@@ -36,8 +36,13 @@ To run the project locally:
 
 ## Example Board
 Here's an example of a 9x9 grid with scrambled letters:
-
-
+EFJAJCOWSS
+SDGKSRFDFF
+ASRJDUSKLK
+HEANDNDJWA
+ANSDNCNEOP
+PMSNFHHEJE
+JEPQLYNXDL
 
 
 
@@ -63,7 +68,7 @@ We welcome contributions! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or suggestions, please contact us at your-email@example.com.
+For any questions or suggestions, please contact me at diago.menndonca.10@gmail.com.
 
 ## Acknowledgements
 - Thanks to all the contributors who have helped make this project better.
